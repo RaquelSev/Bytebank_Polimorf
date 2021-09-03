@@ -10,7 +10,7 @@ public class ControleBonificacao {
         this.soma += bonif;
      }
 
-    //Para fins didáticos - não precisaria de um método de bonificacao para cada Classe
+     //Para fins didáticos - não precisaria de um método de bonificacao para cada Classe
     //  public void registra(Gerente g){
     //     double bonif = g.getBonificacao();
     //     this.soma += bonif;
